@@ -1,10 +1,27 @@
-.wList {
+.container {
     font-weight: bold;
     color: white;
-    background-color: navy;
-    display:flex
+    background-color: darkslategrey;
+    display: flex;
+    padding: 10px;
 }
 
-.wList ul {
+.wList {
     flex: 1;
+}
+
+.container2 {
+    flex: 1;
+    width: 500;
+}
+
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 400;
 }
