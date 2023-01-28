@@ -1,0 +1,10 @@
+.wList {
+    font-weight: bold;
+    color: white;
+    background-color: navy;
+    display:flex
+}
+
+.wList ul {
+    flex: 1;
+}
