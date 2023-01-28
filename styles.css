@@ -1,7 +1,7 @@
 .container {
     font-weight: bold;
-    color: white;
-    background-color: darkslategrey;
+    color: darkslategrey;
+    background-color: lightgrey;
     display: flex;
     padding: 10px;
 }
